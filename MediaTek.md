@@ -1,5 +1,9 @@
 # MediaTek
 
+## Overview
+
+![LinkIt Compare](images/LinkIt_Compare.jpg)
+
 ## LinkIt for RTOS
 
 ![LinkIt for RTOS](http://labs.mediatek.com/images/linkitRTOS/general/LinkIt_RTOS_overview.png)
