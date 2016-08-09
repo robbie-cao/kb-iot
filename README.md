@@ -10,6 +10,8 @@
 
 ## Vendors
 
+- [MediaTek](MediaTek.md)
+
 ## Misc
 
 ## Reference
