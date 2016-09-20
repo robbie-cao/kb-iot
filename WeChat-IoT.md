@@ -22,6 +22,16 @@
 - 扫描设备二维码
 - 调用JSAPI
 
+![](http://iot.weixin.qq.com/wiki/static/image/2_1-1.png)
+
+> http://iot.weixin.qq.com/wiki/new/index.html?page=3-4-6
+
+> http://iot.weixin.qq.com/wiki/document-2_2.html
+
+> http://iot.weixin.qq.com/doc/both/设备接入接口协议V2.3.1.pdf
+
+> http://blog.csdn.net/wangbo54979/article/details/51783016
+
 ### 功能
 
 用户可以通过**公众号**查看和控制自己的手环、电视、空调和其它智能家电等。
